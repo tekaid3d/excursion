@@ -9,14 +9,15 @@ h1 {
   text-align: center;
   color: white;
 }
-p.download {
+a {
   color: Aquamarine;
   font-size: 16px;
 }
 
 p.trade {
   color: Gray;
-  text-align: right;
+  text-align: Right;
+  font-size: 24px;
 }
 h3 {
   font-size: 42px;
